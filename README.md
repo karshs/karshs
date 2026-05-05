@@ -1,30 +1,49 @@
-# Hi there 👋. I'm Utkarsh and I love building high-scale tech
+### Hi there 👋. I'm Utkarsh and I love building high-scale tech
+
+<a><img align="right" alt="Utkarsh" width="450px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjMjlhNGk3ZXJienY4ejlsYjVjYTlyOWg4OWl4NXBicWIxZG80dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif"></a>
 
 I am a final-year Computer Science Engineering student focused on Backend Engineering and System Design. I enjoy solving complex algorithmic challenges and building systems that can handle the heat.
 
 ---
 
-### 🔭 I’m currently working on
-- **Backend-Infra:** In high-concurrency systems designed for low-latency ad-tech environments.
-- **SRE & Infrastructure:** Learning to scale Node.js and Fastify applications using modern DevOps practices.
+- 🔭 I’m currently working on **Backend-Infra** for high-concurrency systems and scaling **Node.js/Fastify** applications.
+- 🌱 I’m also exploring **Advanced System Design** and **AI Orchestration** with LLMs.
+- 👯 I’m looking to collaborate on **Open Source** and **High-Performance Backend** projects.
+- 💬 Ask me about **Recursion Trees, DP Tabulation,** or **System Architecture**.
+- ⚡ Fun fact: I love experimenting with **Blender** (Geometry Nodes) and audio visualizations.
 
-### 🌱 I’m also exploring
-- **Backend Architecture:** Deep diving into TypeScript, Fastify, and advanced system design patterns.
-- **AI Orchestration:** Integrating LLMs and ML logic into production-grade backend workflows.
+<br>
 
-### ⚡ Fun fact
-- I love experimenting with Blender and Polyfjord-style audio visualizations.
-- I'm a "Pupil" on Codeforces working my way up the ranks!
+<hr>
+
+**Languages & Tools I prefer:**<br>
+<p>
+  <a><img src="https://img.icons8.com/color/48/000000/typescript.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/python.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
+</p>
+
+**Talk to me about:**<br>
+<p>
+  <a><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/blender-3d.png"></a>
+  <a><img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png"></a>
+</p>
+
+![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=GrayFlash&theme=dracula)
+
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=GrayFlash&color=blue" alt="counter" /> 
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=flat&logo=codeforces" alt="Codeforces" />
+</p>
+
 ---
 
-### 🛠️ Languages & Tools I Prefer
+**Connect with me:** <br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px"/>](https://www.linkedin.com/in/utkarsh-singh/)
+<a href="mailto:your-email@example.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35px"/> </a>
 
-**Backend & Logic**
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
----
-
-### 📈 Competitive Programming Stats
-![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-blue?style=flat&logo=codeforces) 
+### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFlash&hide=Jupyter+Notebook&layout=compact&langs_count=6)](https://github.com/GrayFlash/github-readme-stats)
