@@ -14,49 +14,37 @@
       </ul>
     </td>
     <td>
-      <img align="right" alt="Utkarsh" width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjMjlhNGk3ZXJienY4ejlsYjVjYTlyOWg4OWl4NXBicWIxZG80dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif">
+      <img align="right" alt="Utkarsh" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemptbzNpNTI5aHhtbGhzMHcwbWVxc2MzamZ2dzRoYnNid2VodmVjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTkcEQACH24SMPxIQg/giphy.gif">
     </td>
   </tr>
 </table>
 
 <br>
 
-**Languages & Tools I prefer:**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40"/>
-</p>
-
-**Talk to me about:**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png" width="40" height="40"/>
-</p>
-
----
-
-### 📊 My GitHub Stats
+### Languages & Tools I prefer: <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrayFlash&show_icons=true&theme=dracula&count_private=true" alt="Karsh's GitHub stats" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karshs&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="counter" /> 
-  <img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=flat-square&logo=codeforces" alt="Codeforces" />
-</p>
-
----
-
-**Connect with me:**
-<p>
-  <a href="https://www.linkedin.com/in/utkarsh-singh/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35px"/></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFlash&layout=compact&theme=dracula&hide=jupyter%20notebook" alt="Top Langs" />
+### Connect with me: <br>
+<p align="left">
+  <a href="https://x.com/nameiskarsh"> <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
+  <a href="https://www.linkedin.com/in/utkarsh-singh-jp/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:your-singhutkarsh187@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
